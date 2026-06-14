@@ -1,0 +1,100 @@
+1,White T-Shirt,Men,Tops,20,white,slim
+2,Blue Jeans,Men,Bottoms,50,blue,slim
+3,White Sneakers,Men,Footwear,80,white,regular
+4,Black Jacket,Men,Tops,90,black,regular
+5,Backpack,Accessories,Bags,40,brown,regular
+6,Grey Hoodie,Men,Tops,45,grey,regular
+7,Black Chinos,Men,Bottoms,55,black,slim
+8,Brown Loafers,Men,Footwear,70,brown,regular
+9,Navy Polo,Men,Tops,30,navy,slim
+10,White Shorts,Men,Bottoms,25,white,regular
+11,Red Sneakers,Men,Footwear,85,red,regular
+12,Denim Jacket,Men,Tops,95,blue,regular
+13,Khaki Pants,Men,Bottoms,60,khaki,regular
+14,Black Boots,Men,Footwear,110,black,regular
+15,Green Cargo,Men,Bottoms,65,green,loose
+16,Striped Shirt,Men,Tops,35,white,slim
+17,Grey Sweatpants,Men,Bottoms,40,grey,loose
+18,Canvas Shoes,Men,Footwear,50,white,regular
+19,Bomber Jacket,Men,Tops,100,black,regular
+20,Slim Trousers,Men,Bottoms,70,navy,slim
+21,Floral Dress,Women,Dresses,60,pink,regular
+22,Black Maxi Dress,Women,Dresses,80,black,regular
+23,White Blouse,Women,Tops,35,white,slim
+24,Red Midi Dress,Women,Dresses,75,red,regular
+25,Blue Crop Top,Women,Tops,25,blue,slim
+26,Yellow Sundress,Women,Dresses,55,yellow,regular
+27,Black Leggings,Women,Bottoms,30,black,slim
+28,White Kurti,Women,Tops,40,white,regular
+29,Grey Cardigan,Women,Tops,50,grey,regular
+30,Pink Mini Dress,Women,Dresses,65,pink,regular
+31,Brown Ankle Boots,Women,Footwear,95,brown,regular
+32,White Heels,Women,Footwear,85,white,regular
+33,Black Flats,Women,Footwear,45,black,regular
+34,Nude Sandals,Women,Footwear,55,nude,regular
+35,Blue Denim Skirt,Women,Bottoms,45,blue,regular
+36,Olive Jumpsuit,Women,Dresses,70,olive,regular
+37,Pink Hoodie,Women,Tops,48,pink,regular
+38,White Palazzo,Women,Bottoms,42,white,loose
+39,Satin Blouse,Women,Tops,60,gold,slim
+40,Plaid Skirt,Women,Bottoms,50,red,regular
+41,Leather Belt,Accessories,Belts,20,black,regular
+42,Brown Leather Belt,Accessories,Belts,22,brown,regular
+43,Canvas Belt,Accessories,Belts,15,khaki,regular
+44,Braided Belt,Accessories,Belts,18,brown,regular
+45,Red Belt,Accessories,Belts,20,red,regular
+46,Black Cap,Accessories,Hats,18,black,regular
+47,White Baseball Cap,Accessories,Hats,20,white,regular
+48,Beige Bucket Hat,Accessories,Hats,25,beige,regular
+49,Navy Snapback,Accessories,Hats,30,navy,regular
+50,Brown Fedora,Accessories,Hats,45,brown,regular
+51,Black Tote Bag,Accessories,Bags,35,black,regular
+52,Brown Satchel,Accessories,Bags,60,brown,regular
+53,Grey Duffle Bag,Accessories,Bags,55,grey,regular
+54,Red Clutch,Accessories,Bags,40,red,regular
+55,Blue Crossbody,Accessories,Bags,50,blue,regular
+56,White Oxford Shirt,Men,Tops,38,white,slim
+57,Black Turtleneck,Men,Tops,42,black,slim
+58,Olive Shirt,Men,Tops,36,olive,regular
+59,Burgundy Sweater,Men,Tops,65,burgundy,regular
+60,Light Blue Shirt,Men,Tops,32,blue,slim
+61,Rust Corduroy Pants,Men,Bottoms,68,rust,regular
+62,White Linen Pants,Men,Bottoms,58,white,loose
+63,Dark Grey Jeans,Men,Bottoms,55,grey,slim
+64,Olive Shorts,Men,Bottoms,28,olive,regular
+65,Black Joggers,Men,Bottoms,38,black,loose
+66,White High Tops,Men,Footwear,90,white,regular
+67,Tan Chukka Boots,Men,Footwear,105,tan,regular
+68,Black Slip Ons,Men,Footwear,60,black,regular
+69,Navy Boat Shoes,Men,Footwear,75,navy,regular
+70,Grey Running Shoes,Men,Footwear,95,grey,regular
+71,Purple Maxi Dress,Women,Dresses,78,purple,regular
+72,White Wrap Dress,Women,Dresses,68,white,regular
+73,Teal Bodycon Dress,Women,Dresses,72,teal,slim
+74,Black Shirt Dress,Women,Dresses,65,black,regular
+75,Orange Sundress,Women,Dresses,58,orange,regular
+76,Cream Linen Top,Women,Tops,32,cream,loose
+77,Black Tank Top,Women,Tops,20,black,slim
+78,Maroon Sweatshirt,Women,Tops,52,maroon,regular
+79,White Lace Top,Women,Tops,45,white,regular
+80,Blue Denim Top,Women,Tops,38,blue,regular
+81,Beige Trench Coat,Women,Tops,120,beige,regular
+82,Grey Yoga Pants,Women,Bottoms,35,grey,slim
+83,Navy Wide Leg Pants,Women,Bottoms,62,navy,loose
+84,White Shorts,Women,Bottoms,28,white,regular
+85,Pink Skirt,Women,Bottoms,42,pink,regular
+86,Gold Heels,Women,Footwear,95,gold,regular
+87,Black Sneakers,Women,Footwear,75,black,regular
+88,White Mules,Women,Footwear,65,white,regular
+89,Brown Sandals,Women,Footwear,50,brown,regular
+90,Red Pumps,Women,Footwear,88,red,regular
+91,Silver Belt,Accessories,Belts,25,silver,regular
+92,Woven Belt,Accessories,Belts,17,beige,regular
+93,Pink Bucket Hat,Accessories,Hats,22,pink,regular
+94,Grey Wool Hat,Accessories,Hats,35,grey,regular
+95,Black Beret,Accessories,Hats,28,black,regular
+96,Tan Leather Bag,Accessories,Bags,75,tan,regular
+97,Black Mini Bag,Accessories,Bags,45,black,regular
+98,Navy Backpack,Accessories,Bags,65,navy,regular
+99,White Tote,Accessories,Bags,38,white,regular
+100,Pink Crossbody,Accessories,Bags,52,pink,regular
