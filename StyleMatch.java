@@ -854,7 +854,7 @@ public class StyleMatch {
         }
 
         System.out.println();
-        System.out.println("Demo Complete");
+        System.out.println("Shopping End: ");
         scanner.close();
     }
 }
